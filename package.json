@@ -1,0 +1,17 @@
+{
+  "name": "syedBotBug By syed",
+  "author": "syed",
+  "scripts": {
+    "start": "node syed.js"
+  },
+  "dependencies": {
+    "node-cache": "^5.1.2",
+     "nasigoreng": "github:fiona-qaxer/nasigoreng",
+    "@whiskeysockets/baileys": "github:pou-code/Baileys",
+    "jimp": "^1.6.1",
+    "chalk": "^5.6.2",
+    "crypto": "^1.0.1",
+    "node-telegram-bot-api": "^0.67.0",
+    "pino": "^10.3.0"
+  }
+}
